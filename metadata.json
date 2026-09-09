@@ -1,0 +1,8 @@
+{
+  "name": "Amjid Mobile Store",
+  "description": "Offline Mobile Shop Management Application with Pashto and English support, stock, sales, purchases, customers, suppliers, profits, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

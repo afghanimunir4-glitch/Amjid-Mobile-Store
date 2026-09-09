@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Smartphone body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,24 h34 c3.31,0 6,2.69 6,6 v48 c0,3.31 -2.69,6 -6,6 h-34 c-3.31,0 -6,-2.69 -6,-6 v-48 c0,-3.31 2.69,-6 6,-6 z" />
+    <!-- Screen area -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M34,31 h40 v42 h-40 z" />
+    <!-- Speaker & Camera -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M48,27 h12 c0.55,0 1,0.45 1,1 s-0.45,1 -1,1 h-12 c-0.55,0 -1,-0.45 -1,-1 s0.45,-1 1,-1 z" />
+    <!-- Home Bar / Fingerprint sensor -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M50,77 h8 c0.55,0 1,0.45 1,1 s-0.45,1 -1,1 h-8 c-0.55,0 -1,-0.45 -1,-1 s0.45,-1 1,-1 z" />
+    <!-- Shopping bag / store icon on the screen -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,46 c0,-3.31 2.69,-6 6,-6 s6,2.69 6,6 h-2 c0,-2.21 -1.79,-4 -4,-4 s-4,1.79 -4,4 h-2 z" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M43,46 h22 l-2,18 h-18 z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M51,51 h6 v8 h-6 z" />
+</vector>
